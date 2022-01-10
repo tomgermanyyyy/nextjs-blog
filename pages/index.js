@@ -19,6 +19,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+        <p>Hiiiiiiiiiiiiiii</p>
         <p>
           Hello, I'm <strong>Duc</strong>. I'm currently a third year Computer
           Science student at Ho Chi Minh University of Technology - VNUHCM. I
